@@ -1,3 +1,4 @@
+// imports the dependencies for the server
 const express = require('express');
 const routes = require('./routes');
 // import sequelize connection
